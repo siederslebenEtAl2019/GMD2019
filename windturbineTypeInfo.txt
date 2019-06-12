@@ -1,0 +1,15 @@
+In dieser Datei wird festgehalten welcher Windturbinentyp zu welcher wind-turbine-x.tbl Datei gehört.
+Die Variable x steht hierbei für einen Integer.
+
+SIEMENS-3.6-120         wind-turbine-2.tbl
+SENVION6.2M             wind-turbine-3.tbl     Wind Parl OWP Nordsee Ost (nicht mit SENVION6.2M152 verwechseln)
+SIEMENS-6.0-154         wind-turbine-4.tbl     Godewind hat diese Windräder
+SENVION6.2M152          wind-turbine-5.tbl     Trianel Windpark Borkum
+ADWEN GMBH AD 5-116     wind-turbine-6.tbl     Trianel Windpark Borkum
+AREVA GmbH M5000-116    wind-turbine-7.tbl     Global Tech 1
+SIEMENS-4.0-130         wind-turbine-8.tbl     Sandbank
+SIEMENS-3.6-120 Baltic2 wind-turbine-9.tbl     Baltic2 lower hub height than at Amrumbank West, therefore seperate file
+AdwenM5000-135          wind-turbine-10.tbl    Wikinger
+SENVION62M126           wind-turbine-11.tbl    NordseeOne       
+GE Hailiade 150-6MW     wind-turbine-12.tbl    Merkur       
+Vestas V164-8.0         wind-turbine-13.tbl    Riffgrundd 2       
